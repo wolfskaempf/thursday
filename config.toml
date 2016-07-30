@@ -1,0 +1,10 @@
+baseurl = "http://thursday.laax2016.ch/"
+languageCode = "en-gb"
+title = "Thursday"
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0b"
+  description = "An overview of your options for the Thursday activities."
+  copyright = "Laax 2016"
