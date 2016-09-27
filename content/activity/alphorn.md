@@ -13,4 +13,4 @@ You will receive a very unique Alphorn lesson from three Swiss Alphorn players a
 ## Facts
 * Participants: 40
 * Any weather
-* Further Information: http://www.wernererb.ch/
+* [Further Information](http://www.wernererb.ch/)

@@ -13,4 +13,4 @@ This activity will take you to a farm as well as a cheese dairy and show you the
 ## Facts
 * Participants: 25
 * Any weather
-* Further information: http://www.myswitzerland.com/en-ch/sennaria-surselva-alpine-cheese-dairy.html
+* [Further information](http://www.myswitzerland.com/en-ch/sennaria-surselva-alpine-cheese-dairy.html)

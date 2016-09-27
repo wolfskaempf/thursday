@@ -13,4 +13,4 @@ This is a great way to get an adrenaline kick and have fun at the same time. The
 ## Facts
 * Participants: 15
 * Good weather only
-* Further information: http://www.flims.com/de/aktivitaeten/outdoor/hochseilpark-flims/
+* [Further information](http://www.flims.com/de/aktivitaeten/outdoor/hochseilpark-flims/)
