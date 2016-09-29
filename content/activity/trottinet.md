@@ -11,5 +11,5 @@ title = "Giant Scooter"
 Ever wondered what a giant scooter is? Ever wanted to ride one? You have the possibility to ride down a mountain: fast, fresh and fun. This activity requires a certain level of fitness as you have to be able to break when needed.
 
 ## Facts
-* Participants: 10
+* Participants: 10, all spots are already taken
 * Good weather only
